@@ -4,3 +4,5 @@ examples/*/.enb/tmp
 examples/*/__coverage*
 examples/*/*specs
 examples/*/coverage.json
+
+.idea
