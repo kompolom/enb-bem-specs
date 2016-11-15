@@ -29,6 +29,7 @@
     "enb-borschik": "2.4.0",
     "enb-js": "1.1.0",
     "enb-stylus": "2.4.0",
+    "enb-babelify": "https://github.com/kompolom/enb-babelify.git#master",
     "inherit": "2.2.6",
     "istanbul": "0.4.5",
     "lodash": "4.16.1",
@@ -46,8 +47,7 @@
     "eslint": "^3.5.0",
     "eslint-config-pedant": "^0.8.0",
     "jscs": "^3.0.7",
-    "postcss-import": "^8.1.2",
-    "enb-babelify": "https://github.com/kompolom/enb-babelify.git#master"
+    "postcss-import": "^8.1.2"
   },
   "main": "lib/index.js",
   "scripts": {
