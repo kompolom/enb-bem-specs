@@ -22,6 +22,7 @@
   "dependencies": {
     "bem-naming": "1.0.1",
     "borschik-tech-istanbul": "0.3.0",
+    "enb-babelify": "https://github.com/kompolom/enb-babelify.git#master",
     "enb-bem-i18n": "1.1.1",
     "enb-bem-pseudo-levels": "0.3.0",
     "enb-bem-techs": "2.2.1",
@@ -29,12 +30,10 @@
     "enb-borschik": "2.4.0",
     "enb-js": "1.1.0",
     "enb-stylus": "2.4.0",
-    "enb-babelify": "https://github.com/kompolom/enb-babelify.git#master",
     "inherit": "2.2.6",
     "istanbul": "0.4.5",
     "lodash": "4.16.1",
-    "mocha-phantomjs": "3.5.3",
-    "phantomjs": "1.9.20",
+    "mochatron": "github:belozer/mochatron",
     "vow": "0.4.12",
     "ym": "0.1.2"
   },
