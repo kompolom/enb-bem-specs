@@ -1,6 +1,20 @@
 История изменений
 =================
 
+0.11.1
+------
+
+* Исправлена ошибка генерации `doctype` при включении эскейпинга в шаблонах (@tadatuta [#67]).
+
+[#67]: https://github.com/enb/enb-bem-specs/pull/67
+
+0.11.0
+------
+
+* Добавлена опция `schemeBuilder` (@dmkoval [#62]).
+
+[#62]: https://github.com/enb/enb-bem-specs/pull/62
+
 0.10.0
 -----
 

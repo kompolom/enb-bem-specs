@@ -1,7 +1,7 @@
 {
   "author": "Andrew Abramov <mail@blond.im>",
   "name": "enb-bem-specs",
-  "version": "0.10.0",
+  "version": "0.11.1",
   "description": "BEM specs for ENB",
   "repository": "git://github.com/enb/enb-bem-specs",
   "homepage": "https://github.com/enb/enb-bem-specs",
@@ -23,7 +23,7 @@
     "bem-naming": "1.0.1",
     "borschik-tech-istanbul": "0.3.0",
     "enb-bem-i18n": "1.1.1",
-    "enb-bem-pseudo-levels": "0.3.0",
+    "enb-bem-pseudo-levels": "0.4.0",
     "enb-bem-techs": "2.2.1",
     "enb-bemxjst": "2.2.0",
     "enb-borschik": "2.4.0",
@@ -32,8 +32,7 @@
     "inherit": "2.2.6",
     "istanbul": "0.4.5",
     "lodash": "4.16.1",
-    "mocha-phantomjs": "3.5.3",
-    "phantomjs": "1.9.20",
+    "mochatron": "github:belozer/mochatron",
     "vow": "0.4.12",
     "ym": "0.1.2"
   },
