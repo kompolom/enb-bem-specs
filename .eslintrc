@@ -3,3 +3,5 @@ env:
   browser: true
 
 extends: pedant
+parserOptions:
+    ecmaVersion : 6
